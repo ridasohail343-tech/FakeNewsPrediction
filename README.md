@@ -1,6 +1,7 @@
 # Fake News Detection
 
 A Machine Learning project that predicts whether a news article is **Fake** or **Real** using Natural Language Processing (NLP).
+https://fakenewsprediction-yzg2dej8cha5nrrbxp8gtu.streamlit.app/
 
 ## Technologies Used
 
